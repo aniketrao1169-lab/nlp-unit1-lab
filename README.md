@@ -78,6 +78,5 @@ NLP-Unit1-Programs/
 - [NLTK](https://www.nltk.org/)
 - [spaCy](https://spacy.io/)
 
-## ✍️ Author
 
 Submitted as part of the NLP Lab – Unit 1 assignment.
