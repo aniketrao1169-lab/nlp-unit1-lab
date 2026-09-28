@@ -1,4 +1,4 @@
-# NLP Lab – Unit 1 Programs
+# NLP Lab Programs
 
 This repository contains the Unit 1 lab programs for the **Natural Language
 Processing (NLP)** course, implemented in Python using **NLTK** and
